@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Bashprompt Cookbook
 ===============
 
@@ -56,3 +57,4 @@ License and Authors
 ### License
 
 All rights reserved.
+>>>>>>> b9499965662876380d7c567994c4a752f463abba
