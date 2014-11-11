@@ -1,0 +1,4 @@
+.*.swp
+*.lock
+*.save
+checkstyle.xml

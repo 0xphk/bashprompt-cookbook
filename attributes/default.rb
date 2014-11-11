@@ -1,0 +1,1 @@
+default[:bashprompt][:customer] = []
