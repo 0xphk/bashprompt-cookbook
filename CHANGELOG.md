@@ -11,6 +11,10 @@ This file is used to list changes made in each version of the bashprompt cookboo
 -----
 - [0xphk] - changed attribute from ohai::node::domain to default attribute per environment
 
+0.2.6
+-----
+- [0xphk] - pushed first public version
+
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
 
