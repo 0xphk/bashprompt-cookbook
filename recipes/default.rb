@@ -20,5 +20,6 @@ bash 'add to bashrc' do
     cat /tmp/bashprompt.mod >> /root/.bashrc
     rm /tmp/bashprompt.mod
   EOF
-    not_if 'grep -q bashprompt /root/.bashrc'
+    #not_if 'grep -q bashprompt /root/.bashrc'
+    not_if "grep -q '033.*0;0m' /root/.bashrc"
 end
